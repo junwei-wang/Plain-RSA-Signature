@@ -1,4 +1,4 @@
 Plain-RSA-Signature
 ===================
 
-An implementation of plain rsa signature with simple fault detection
+An implementation of plain RSA signature with simple fault detection
